@@ -1,0 +1,14 @@
+Existem duas formas de entrar no modo interativo:
+usando "python" direto no terminal ou executando o script python -i app.py (utilizar o nome do arquivo que deseja executar no modo interativo)
+
+para sair -> exit()
+
+
+dir() -> verificar o que está dentro da pasta
+
+dir(100) -> verificar o objeto inteiro
+
+
+help() -> retorna um sistema de ajuda integrado
+help(100) -> objeto inteiro
+

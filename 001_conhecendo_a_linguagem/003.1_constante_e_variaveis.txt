@@ -1,0 +1,10 @@
+variável => valor que pode haver alteração e é determinada utilizando letras minúsculas
+
+
+constante => valor que não muda e é determinada com letras maiúsculas
+
+
+Boas práticas
+- utiliza-se padrão snake case: substituir espaço em branco por _
+- escolher nomes sugestivos
+- nome constantes todo em maiúsculo

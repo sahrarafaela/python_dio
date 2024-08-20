@@ -1,0 +1,22 @@
+Os tipos mais comuns:
+
+Texto -> str
+Númerico -> int, float, (complex)
+Sequência -> list, tuple, range
+Mapa -> dict
+Coleção -> set, fronzenset
+Booleano -> bool
+Binário -> bytes, bytearray, memoryview
+
+
+
+Tipos númericos:
+
+- inteiros usamos int
+- números de pontos flutuantes usamos float
+
+
+Tipos booleanos e string:
+
+- booleano é usado para determinar verdadeiro ou falso usamos bool
+- para cadeia de caracteres usamos str
